@@ -1,0 +1,9 @@
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.deps.json
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\bin\Debug\netcoreapp3.1\DIO.Series.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Meus Projetos Estudo\Desafios DIO\Desafio 1 - Séries de TV\DIO.Series\src\DIO.Series.Domain\obj\Debug\netcoreapp3.1\DIO.Series.Domain.csprojAssemblyReference.cache

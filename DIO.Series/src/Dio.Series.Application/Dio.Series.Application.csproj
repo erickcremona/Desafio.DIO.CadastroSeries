@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIO.Series.Data\DIO.Series.Data.csproj" />
+    <ProjectReference Include="..\DIO.Series.Domain\DIO.Series.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

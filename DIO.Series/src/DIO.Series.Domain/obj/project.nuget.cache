@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjF0g4C2rb0S5OM4A/wbnnIGQy0IfM1vHAGHssEtFyOCp/3RlS3FxtwLokHb8LNIXNahF6AMtxL3WUnpcg0ETg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erick\\OneDrive\\Documentos\\Meus Projetos Estudo\\Desafios DIO\\Desafio 1 - Séries de TV\\DIO.Series\\src\\DIO.Series.Domain\\DIO.Series.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
